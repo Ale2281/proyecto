@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inmovilización celular de microorganismos benéficos y su efecto en la liberación controlada para el desarrollo de plántulas de tomate",
+    "section": "",
+    "text": "Note\n\n\n\n##“Inmovilización celular”\n\n\n\n\n\n\n\n\nWarning\n\n\n\n##“El uso de microorganismos dentro de la agricultura puede ser una alternativa biotecnológica atractiva para aumentar el rendimiento de los cultivos, mejorar y restaurar la fertilidad del suelo, estimular el crecimiento de las plantas y, sobre todo, reducir los costos de producción e impactos ambientales asociados a la fertilización química”\n\n\n\n\n\n\n\n\nImportant\n\n\n\n##“Las interacciones beneficiosas de estos microorganismos con las plantas incluyen el suministro de nutrientes a los cultivos, la estimulación del crecimiento de las plantas, la producción de fitohormonas, el biocontrol de fitopatógenos, la mejora de la estructura del suelo, la bioacumulación de compuestos inorgánicos y la biorremediación de suelos contaminados con metales”\n\n\n\n##La sandia es la fruta con mayor contenido de agua. Es una fruta dulce y refrescante obtenida a partir de una hierba rastrera o trepadora denominada Citrullus lanatus, cultivada y comercializada en casi todo el mundo. Su composición le brinda propiedades antioxidantes, hidratantes, diuréticas, inmunológicas que brindan numerosos beneficios a la salud, ya que protege a las células del estrés oxidativo previniendo ciertas enfermedades, contribuye a la hidratación, funciona como diurético, potencia el sistema inmunológico, entre otras funciones(Ooms 2023).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 3, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 30, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nOoms, Jeroen. 2023. “Askpass: Password Entry Utilities for r, Git, and SSH.” https://CRAN.R-project.org/package=askpass."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]

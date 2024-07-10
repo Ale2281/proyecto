@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "proyecto"
+  title: "hola"
   navbar:
     right:
       - about.qmd

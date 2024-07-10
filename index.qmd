@@ -1,5 +1,7 @@
 ---
-title: "proyecto"
+title: "Inmovilización celular de microorganismos benéficos y su efecto en la liberación controlada para el desarrollo de plántulas de tomate"
+author: "Alejandra R"
+date: "03/07/24"
 listing:
   contents: posts
   sort: "date desc"
@@ -9,6 +11,25 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
+bibliography: references.bib
 ---
+
+::: callout-note
+\##"Inmovilización celular"
+:::
+
+::: callout-warning
+\##"El uso de microorganismos dentro de la agricultura puede ser una alternativa biotecnológica atractiva para aumentar el rendimiento de los cultivos, mejorar y restaurar la fertilidad del suelo, estimular el crecimiento de las plantas y, sobre todo, reducir los costos de producción e impactos ambientales asociados a la fertilización química "
+:::
+
+::: callout-important
+\##"Las interacciones beneficiosas de estos microorganismos con las plantas incluyen el suministro de nutrientes a los cultivos, la estimulación del crecimiento de las plantas, la producción de fitohormonas, el biocontrol de fitopatógenos, la mejora de la estructura del suelo, la bioacumulación de compuestos inorgánicos y la biorremediación de suelos contaminados con metales"
+:::
+
+::: {style="color:#F08080"}
+##La sandia es la fruta con mayor contenido de agua. Es una fruta dulce y refrescante obtenida a partir de una hierba rastrera o trepadora denominada Citrullus lanatus, cultivada y comercializada en casi todo el mundo. Su composición le brinda propiedades antioxidantes, hidratantes, diuréticas, inmunológicas que brindan numerosos beneficios a la salud, ya que protege a las células del estrés oxidativo previniendo ciertas enfermedades, contribuye a la hidratación, funciona como diurético, potencia el sistema inmunológico, entre otras funciones[@askpass].
+:::
+
+![](profile.jpg)
 
 
