@@ -1,7 +1,7 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-06-30"
+title: "Bienvenidos a mi presentación"
+author: "Alejandra Retureta"
+date: "2024-08-08"
 categories: [news]
 ---
 
