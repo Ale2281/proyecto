@@ -3,10 +3,9 @@
     "listing": "/index.html",
     "items": [
       "/posts/PRESENTACION/inmovilizacion.html",
-      "/posts/PRESENTACION/PRESENTACION.html",
       "/posts/rescate/index.html",
-      "/posts/welcome/index.html",
-      "/posts/post-with-code/index.html"
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
