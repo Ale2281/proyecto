@@ -1,7 +1,5 @@
 ---
-title: "Inmovilización celular de microorganismos benéficos y su efecto en la liberación controlada para el desarrollo de plántulas de tomate"
-author: "Alejandra R"
-date: "03/07/24"
+title: "Inmovilización celular de microorganismos benéficos"
 listing:
   contents: posts
   sort: "date desc"
@@ -12,52 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 bibliography: references.bib
+
 ---
-
-::: callout-note
-\##"Inmovilización celular de microorganismos promoteres del creimiento vegetal"
-:::
-
-::: callout-warning
-\##"El uso de microorganismos dentro de la agricultura puede ser una alternativa biotecnológica atractiva para aumentar el rendimiento de los cultivos, mejorar y restaurar la fertilidad del suelo, estimular el crecimiento de las plantas y, sobre todo, reducir los costos de producción e impactos ambientales asociados a la fertilización química "
-:::
-
-::: callout-important
-\##"Trichoderma harzianum, Psuedomona putida, Stenotrophomonas rhizophila, cinética de liberación"
-:::
-
-::: {style="color:#F08080"}
-##Los hongos promotores del crecimiento vegetal son microorganismos no patógenos, que se encuentran en diferentes hábitats y se ha demostrado continuamente que la asociación con sus huéspedes es altamente beneficiosa para las plantas, esto debido a que mejora su desarrollo y activa sus mecanismos de defensa contra agentes fitopatógenos invasores. Son organismos saprófitos y de origen natural, por lo que, ayudan a mantener la fertilidad del suelo y a su vez, aumenta el crecimiento de las plantas e induce una respuesta de defensa contra las infecciones por patógenos[@Jones2016]. por otro lado, las bacterias promotoras del crecimiento vegetal son un grupo de microorganismos benéficos que están distribuidos ampliamente en las raíces o en el suelo de la rizosfera, de las plantas y están directamente relacionados con el metabolismo de las raíces de las plantas hospedantes estas ejercen un efecto benéfico directo e indirecto en el desarrollo vegetativo, se relacionan de manera directa, ya que, sintetizan las fitohormonas, las vitaminas, ayudan a estimular la germinación de semillas, la emergencia de la plántula, así como a inhibir la síntesis de etileno y contribuyen a solubilizar el fósforo inorgánico[@Iheagwara2013]. El efecto benéfico de acción indirecto consta de la competencia de nutrientes, síntesis de antibióticos y fungicidas, induce a la resistencia sistémica contra agentes patógenos, la producción de sideróforos, también funcionan como agentes de control biológico, protegiendo a las plantas de posibles infecciones causadas por fitopatógenos [@askpass].
-:::
-
-![](P.putida.png)
-
-
-::: panel-tabset
-## Resumen
-
-El uso de microorganismos benéficos en la agricultura es una de las alternativas más prometedoras para contribuir a la solución de las principales problemáticas de cultivos de importancia agroalimentaria como el tomate. Pero esta tecnología aún presenta deficiencias en la formulación y aplicación de estos bioinoculantes. Por esto, el objetivo de esta investigación es evaluar el efecto de la forma física de bioinoculantes microbianos en su supervivencia y liberación controlada en la inoculación de plántulas de tomate. Se evaluará la aplicación de Trichoderma harzianum, Pseudomona putida y Stenotrophomonas rhizophila, en tres formas físicas: suspensión líquida, microcápsulas y nanoemulsión. Se determinarán parámetros morfológicos de las plántulas de tomate: altura de planta, longitud y volumen radical, peso seco y fresco de follaje y raíz, y grosor de tallo. Se evaluarán los mecanismos de interacción con método cualitativo (solubilización de N y P) y métodos cuantitativos (producción de AIA, cuantificación de sideróforos y conteo de UFC). Se realizará un estudio de cinética de liberación controlada de los microorganismos micro y nanoencápsulados. El diseño experimental será un diseño factorial completamente al azar con 10 tratamientos y 10 réplicas cada uno. Se realizará un ANOVA y una comparación de medias Tukey con un α= 0.05, utilizando el software estadístico Minitab para Windows versión 2020.
-
-![](MO.jpeg)
-
-
-## Introducción
-
-Entre 1900 y 2022 la población mundial se ha cuadriplicado, alcanzando un aproximado de 8,000 millones de personas, por lo que se estima un aumento a 10,000 millones de habitantes para el 2050. Los sistemas de producción de alimentos existentes serán insuficientes para hacer frente a este aumento demográfico.En consecuencia, la agricultura tiene la necesidad de ser más eficiente para mejorar su competitividad, reducir sus costos de producción y adaptarse a la volatilidad del mercado. Una de las alternativas más prometedoras y estudiada es el uso de microorganismos benéficos en el sector agrícola. Los biofertilizantes pueden ser alternativas biotecnológicas atractivas para aumentar el rendimiento de los cultivos, mejorar y restaurar la fertilidad del suelo, estimular el crecimiento de las plantas y, sobre todo, reducir los costos de producción e impactos ambientales asociados a la fertilización química. Las interacciones beneficiosas de estos microorganismos con las plantas incluyen el suministro de nutrientes a los cultivos, la estimulación del crecimiento de las plantas, la producción de fitohormonas, el biocontrol de fitopatógenos, la mejora de la estructura del suelo, la bioacumulación de compuestos inorgánicos y la biorremediación de suelos contaminados con metales. Por esto, el uso de microorganismos benéficos en la agricultura ha sido evaluado en una amplia variedad de cultivos, incluyendo los de mayor importancia a nivel mundial como, el arroz, trigo, maíz y papa, entre otros.
-
-![](Planta.jpeg)
-
-## Marco teórico
-:::{styles="text-align: justify; color:red;"}
-Los hongos promotores del crecimiento vegetal son microorganismos no patógenos, que se encuentran en diferentes hábitats y se ha demostrado continuamente que la asociación con sus huéspedes es altamente beneficiosa para las plantas, esto debido a que mejora su desarrollo y activa sus mecanismos de defensa contra agentes fitopatógenos invasores. Son organismos saprófitos y de origen natural, por lo que, ayudan a mantener la fertilidad del suelo y a su vez, aumenta el crecimiento de las plantas e induce una respuesta de defensa contra las infecciones por patógenos. Las bacterias promotoras del crecimiento vegetal son un grupo de microorganismos benéficos que están distribuidos ampliamente en las raíces o en el suelo de la rizosfera de las plantas y están directamente relacionados con el metabolismo de las raíces de las plantas hospedantes.estas ejercen un efecto benéfico directo e indirecto en el desarrollo vegetativo, se relacionan de manera directa, ya que, sintetizan las fitohormonas, las vitaminas, ayudan a estimular la germinación de semillas, la emergencia de la plántula, así como a inhibir la síntesis de etileno y contribuyen a solubilizar el fósforo inorgánico. El efecto benéfico de acción indirecto consta de la competencia de nutrientes, síntesis de antibióticos y fungicidas, induce a la resistencia sistémica contra agentes patógenos, la producción de sideróforos, también funcionan como agentes de control biológico, protegiendo a las plantas de posibles infecciones causadas por fitopatógenos 
-:::
-
-![](T.harzianum.jpg)
-
-## Análisis estadístico
-
-Se empleará un diseño factorial completamente al azar con 10 tratamientos y 10 réplicas cada uno. Los datos serán procesados mediante un análisis de varianza (ANOVA), y una comparación de medias de Tukey (α = 0.05) en el software estadístico Minitab para Windows, versión 2020.
-
-![](minitab.jpeg)
-
-:::
