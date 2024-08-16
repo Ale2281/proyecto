@@ -1,0 +1,132 @@
+---
+title: "Presentación de anteproyecto"
+author: "Alejandra R."
+date: "2024-08-08"
+format: revealjs
+categories: [News]
+---
+
+Bienvenidos a mi presentación
+
+![](inmovilizacion.jpg)
+
+::: {style="text-align:justify"}
+## Inmovilización celular de microorganismos benéficos y su efecto en la liberación controlada para el desarrollo de plántulas de tomate{.smallcaps}
+
+![](inmovilizacion.jpg){fig-align="center" width="450"}
+
+Protocolo de investigación
+
+Presenta: Alejandra Retuteta
+:::
+
+::: {style="text-align:justify"}
+## Introducción
+
+Entre 1900 y 2022 la población mundial se ha cuadriplicado, alcanzando un aproximado de 8,000 millones de personas, por lo que se estima un aumento a 10,000 millones de habitantes para el 2050.
+
+![Fuente: Google](pop-increase.jpg){fig-align="center" width="500"}
+:::
+
+::: {style="text-align:justify"}
+## Introducción
+
+En consecuencia, la agricultura tiene la necesidad de ser más eficiente para mejorar su competitividad, reducir sus costos de producción y adaptarse a la volatilidad del mercado.
+
+![Fuente: Google](agricultura.jpg){fig-align="center" width="500"}
+:::
+
+::: {style="text-align:justify"}
+## Introducción
+
+Una de las alternativas más prometedoras y estudiada es el uso de microorganismos benéficos en el sector agrícola. Estos pueden ser alternativas biotecnológicas atractivas para aumentar el rendimiento de los cultivos, mejorar y restaurar la fertilidad del suelo, estimular el crecimiento de las plantas y reducir los costos de producción e impactos ambientales asociados a la fertilización química.
+
+![Fuente: Propia](Diagrama.jpg){fig-align="center" width="900"}
+:::
+
+::: {style="text-align:justify"}
+## Introducción
+
+Las interacciones beneficiosas de estos microorganismos con las plantas incluyen el suministro de nutrientes a los cultivos, la estimulación del crecimiento de las plantas, la producción de fitohormonas, el biocontrol de fitopatógenos, la mejora de la estructura del sueloy la biorremediación de suelos contaminados con metales.
+
+![Microorganismos en la rizosfera](MO%20en%20plantas.webp){fig-align="center" width="850"}
+:::
+
+::: {style="text-align:justify"}
+## Planteamiento del problema
+
+En la actualidad, la agricultura convencional presenta grades problemáticas, como el desgaste nutricional del suelo y poca disponibilidad de nutrientes, lo que deriva en un bajo rendimiento de los cultivos, ocasionando grandes pérdidas económicas. Por esto, se investigan nuevas alternativas amigables con el medio ambiente como euso de microorganismos benéficos como hongos y bacterias para promover el crecimiento, desarrollo y protección de las plantas.
+
+![*P.putida*](P.putida.png){fig-align="center" width="501"}
+:::
+
+::: {style="text-align:justify"}
+## Justificación
+
+La agricultura busca microorganismos benéficos que faciliten la biodisponibilidad de los nutrientes para las plantas, que a su vez protejan la biodiversidad. Sin embargo, esta tecnología aún presenta deficiencias por la supervivencia de los microorganismos, que se ven afectados por diversos factores medio ambientales como:
+
+-   Humedad
+-   Radiación UV
+-   Temperatura
+-   pH
+-   Salinidad, entre otros...
+:::
+
+::: {style="text-align:justify"}
+## Objetivos
+
+**General***:* Evaluar tres formas físicas de bioinoculante microbiano en el desarrollo de plántulas de tomate para lograr una liberación controlada de microorganismos.
+
+**Especificos***:*
+
+***1***. Cuantificar la respuesta de tres formas físicas del bioinoculante en parámetros morfológicos de plántulas de tomate.
+
+***2***. Evaluar la interacción planta-microorganismo para describir el mecanismo de acción de los microorganismos benéficos.
+
+***3***. Estudiar la cinética de liberación de las tres formas física de los microorganismos.
+:::
+
+::: {style="text-align:justify"}
+## Marco teórico
+
+**Hongos**
+
+Los hongos promotores del crecimiento vegetal son microorganismos no patógenos, que se encuentran en diferentes hábitats y se ha demostrado continuamente que la asociación con sus huéspedes es altamente beneficiosa para las plantas, esto debido a que mejora su desarrollo y activa sus mecanismos de defensa contra agentes fitopatógenos invasores.
+
+![*T.harzianum*](T.harzianum.jpg){width="450"}
+:::
+
+::: {style="text-align:justify"}
+## Marco teórico
+
+*Bacterias*
+
+Las bacterias promotoras del crecimiento vegetal son un grupo de microorganismos benéficos que están distribuidos ampliamente en las raíces o en el suelo de la rizosfera de las plantas y están directamente relacionados con el metabolismo de las raíces de las plantas hospedantes.
+
+![*P.putida*](P.putida.png)
+:::
+
+::: {style="text-align:justify"}
+## Antecedentes
+
+![](tabla.jpg){fig-align="center" width="1480"}
+:::
+
+::: {style="text-align:justify"}
+## Análisis estadístico
+
+Lugar de trabajo La investigación se realizará en el Laboratorio de Química Agrícola de la Facultad de Ciencias Agrícolas de la Universidad Veracruzana, Campus Xalapa. Con la colaboración interinstitucional del Centro de Investigaciones Biológicas del Noroeste (CIBNOR).
+
+![Fuente: Propia](facultad.jpg){fig-align="center" width="500"}
+:::
+
+::: {style="text-align:justify"}
+## Análisis estadístico
+
+![Fuente: Propia](AnalisisEst.jpg){fig-align="center" width="500"}
+:::
+
+::: {style="text-align:justify"}
+## Gracias por su atención!
+![](tt.jpg)
+:::
