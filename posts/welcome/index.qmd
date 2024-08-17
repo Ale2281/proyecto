@@ -11,7 +11,7 @@ Bienvenidos a mi presentación
 ![](inmovilizacion.jpg)
 
 ::: {style="text-align:justify"}
-## Inmovilización celular de microorganismos benéficos y su efecto en la liberación controlada para el desarrollo de plántulas de tomate{.smallcaps}
+## Inmovilización celular de microorganismos benéficos y su efecto en la liberación controlada para el desarrollo de plántulas de tomate {.smallcaps}
 
 ![](inmovilizacion.jpg){fig-align="center" width="450"}
 
@@ -128,5 +128,6 @@ Lugar de trabajo La investigación se realizará en el Laboratorio de Química A
 
 ::: {style="text-align:justify"}
 ## Gracias por su atención!
+
 ![](tt.jpg)
 :::
